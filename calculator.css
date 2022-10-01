@@ -1,0 +1,58 @@
+.calc
+{
+    height: 270px;
+    margin-left: 300px;
+    margin-top: 95px;
+    border-style: double;
+    width: 256px;
+    background-color: darkslategray;
+}
+#inp
+{
+    height: 47px;
+    width: 230px;
+
+
+    margin-left: 9px;
+    border-style: solid;
+    border-radius: 9px;
+}
+#ans
+{
+    width: 167px;
+    border-style: groove;
+   
+    margin-top: 8px;
+    height: 29px;
+    margin-left: 37px;
+    color: white;
+}
+.btn
+{
+    width: 32px;
+    height: 27px;
+    border-radius: 9px;
+    border-style: double;
+    border-width: 1px;
+    background: linear-gradient(45deg, #f7f4f4, transparent);
+}
+.buttons
+{
+    width: 170px;
+    
+    height: 126px;
+
+    margin-top: -22px;
+    margin-left: 29px;
+    padding-left: 25px;
+}
+.clear
+{
+    margin-left: 99px;
+    margin-top: -8px;
+    background: linear-gradient(#d49a9a,#ae0b0b);
+    color: white;
+    border-radius: 7px;
+    font-style: italic;
+    border-style:none;
+}
